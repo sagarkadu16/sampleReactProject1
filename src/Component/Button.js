@@ -1,4 +1,4 @@
-import { Button } from './Button.styled';
+import { Button } from './Button.styled.js';
 
 export const CustomButton = () => {
     return (

@@ -1,5 +1,5 @@
 import './App.css';
-import { CustomButton } from './Component'
+import { CustomButton  } from './Component/index.js'
 
 function App() {
   return (

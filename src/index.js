@@ -1,8 +1,8 @@
 import * as React from 'react';
 import * as client from 'react-dom/client';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import App from './App.js';
+import reportWebVitals from './reportWebVitals.js';
 
 const { createRoot } = client;
 
